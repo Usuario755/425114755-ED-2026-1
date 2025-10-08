@@ -1,0 +1,18 @@
+```
+Lista 
+   ─Pasar de # a caracteres ex2_list.c
+	./prog.exe i--
+	arg. dlist 3 4 5 9 7 10
+		ex2_dlist.c
+```
+
+──
+├── code
+│	├── include
+│	├── main
+│	└── source
+└── homework
+    ├── activities
+    └── programs
+
+│	├── include
