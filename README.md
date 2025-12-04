@@ -66,7 +66,7 @@ data_structure/
 | Programa          | 1. Programas de recursividad       |
 |-------------------|------------------------------------|
 | Fecha de entrega  | 12/09/2025                         |
-| Programas         | Favor de revisar el documento [P1E - Recursividad.md](./activities/P1E%20-%20Recursividad.md) que puede ser consultado en la carpeta de actividades |
+| Programas         | Favor de revisar el documento [P1E - Recursividad.md](1.%20Programas%20de%20recursividad.c) que puede ser consultado en la carpeta de actividades |
 
 | Programa          | 2. Programas de arreglos unidimensionales estáticos |
 |-------------------|------------------------------------|
