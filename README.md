@@ -7,6 +7,9 @@ En este respositorio se publicarán las tareas y actividades que tendrán que de
 ## Repositorio en el que se basa:
 https://github.com/dda-ex/ED-2026-1
 
+## Repositorio en el que se basa:
+https://github.com/dda-ex/ED-2026-1
+
 ## Evaluación
 La evaluación del curso será la siguiente:
 
